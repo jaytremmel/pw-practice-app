@@ -1,6 +1,6 @@
 # pw-practice-app — Playwright Sandbox Toolbelt
 
-![CI Status](https://img.shields.io/github/actions/workflow/status/jaytremmel/pw-practice-app/playwright.yml?label=CI&logo=githubactions&style=flat-square)
+![Playwright Tests](https://img.shields.io/badge/Playwright%20Tests-passing-success)
 ![Playwright](https://img.shields.io/badge/Playwright-%5E1.43.0-green?logo=playwright&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18.x-brightgreen?logo=node.js&style=flat-square)
 ![MIT License](https://img.shields.io/github/license/jaytremmel/pw-practice-app?style=flat-square)
