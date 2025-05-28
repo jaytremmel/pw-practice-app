@@ -1,5 +1,10 @@
 # pw-practice-app — Playwright Sandbox Toolbelt
 
+![CI Status](https://img.shields.io/github/actions/workflow/status/jaytremmel/pw-practice-app/playwright.yml?label=CI&logo=githubactions&style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-%5E1.43.0-green?logo=playwright&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18.x-brightgreen?logo=node.js&style=flat-square)
+![MIT License](https://img.shields.io/github/license/jaytremmel/pw-practice-app?style=flat-square)
+
 This is my personal Playwright sandbox. It's a persistent toolbelt I use for exploring, testing, and refining automation workflows. It's not meant for production use. It’s an iterative space where I build out commonly used selectors, reusable functions, and test patterns across a variety of components and UI states.
 
 ## 📦 Current Project State
