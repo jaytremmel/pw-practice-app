@@ -21,6 +21,7 @@ This phase is about reliability and integration, not coverage.
 ## 🛣️ Next Steps
 
 - Expand test coverage across the full suite
+- Fix passing badge from manual - add playwright.yml to project
 - Build utility wrappers for more advanced selectors
 - Add environment toggles for dev/staging/prod test targets
 - Tighten reporting and alerting on visual regressions
