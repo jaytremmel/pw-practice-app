@@ -1,5 +1,4 @@
 import {test} from '../test-options'
-import {NavigationPage} from '../page-objects/navigationPage'
 import {faker} from '@faker-js/faker'
 
 test('parameteriized methods', async({pageManager}) => {
