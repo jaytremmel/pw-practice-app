@@ -17,7 +17,7 @@ This phase is about reliability and integration, not coverage.
   - Pull requests are now automatically validated against this test.
   - Failures block the PR from merging.
 - 🖼️ Screenshot Testing: Argo CI integration enabled
--   ok ^ is failing.... will fix in update by 6/14
+-       ^ is failing.... will fix
 
 ## 🛣️ Next Steps
 
